@@ -31,3 +31,13 @@ Detect keyboards, select one and suggest compatible layout
 
 Suggest language and timezone
 Using geoip information
+
+## Themes and things
+https://github.com/adi1090x/polybar-themes \
+https://github.com/adi1090x/rofi \
+https://github.com/phuhl/linux_notification_center \
+https://github.com/bilelmoussaoui/Hardcode-Tray \
+https://www.box-look.org/p/1099856/ \
+https://github.com/B00merang-Project/Windows-10-Dark/tree/master/openbox-3 \
+https://github.com/B00merang-Project/Windows-10/tree/master/openbox-3 \
+
